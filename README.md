@@ -24,8 +24,6 @@ PHP Laravel v7 or greater.
 
 Database: MySQL 5 and newer.
 
-For complete system requirements, please refer to:
-
 **Installing and Upgrading Instructions**
 
 For comprehensive instructions, the online User Guide is your best resource:
